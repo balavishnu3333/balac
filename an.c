@@ -13,7 +13,7 @@ printf("Output: \n alphabet");
 }
 else
 {
-printf("Output: \n number");
+printf("Output: \n no");
 }
 getch();
 }
